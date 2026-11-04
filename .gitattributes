@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-.mp4 -text
+*.mp4 -text
+*.webp -text
